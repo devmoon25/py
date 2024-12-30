@@ -1,0 +1,572 @@
+2024-12-30 08:19:29,350 - INFO - Modelo RUNT cargado correctamente.
+2024-12-30 08:19:36,498 - INFO - Iniciando consulta para la placa: IRQ891
+2024-12-30 08:19:43,754 - ERROR - Elemento no encontrado para la placa IRQ891: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@formcontrolname='placa']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:19:43,755 - ERROR - Consulta fallida para la placa: IRQ891
+2024-12-30 08:19:43,755 - INFO - Iniciando consulta para la placa: DRU288
+2024-12-30 08:19:48,837 - ERROR - Elemento no encontrado para la placa DRU288: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@formcontrolname='placa']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:19:48,837 - ERROR - Consulta fallida para la placa: DRU288
+2024-12-30 08:19:48,838 - INFO - Iniciando consulta para la placa: IUY421
+2024-12-30 08:19:53,940 - ERROR - Elemento no encontrado para la placa IUY421: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@formcontrolname='placa']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:19:53,940 - ERROR - Consulta fallida para la placa: IUY421
+2024-12-30 08:19:53,941 - INFO - Iniciando consulta para la placa: DRU426
+2024-12-30 08:19:59,002 - ERROR - Elemento no encontrado para la placa DRU426: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@formcontrolname='placa']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:19:59,002 - ERROR - Consulta fallida para la placa: DRU426
+2024-12-30 08:19:59,002 - INFO - Iniciando consulta para la placa: USK541
+2024-12-30 08:20:04,073 - ERROR - Elemento no encontrado para la placa USK541: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@formcontrolname='placa']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:20:04,073 - ERROR - Consulta fallida para la placa: USK541
+2024-12-30 08:24:10,695 - INFO - Modelo RUNT cargado correctamente.
+2024-12-30 08:24:12,027 - INFO - Iniciando consulta para la placa: IRQ891
+2024-12-30 08:24:18,861 - ERROR - Elemento no encontrado para la placa IRQ891: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@formcontrolname='placa']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:24:18,861 - ERROR - Consulta fallida para la placa: IRQ891
+2024-12-30 08:24:18,861 - INFO - Iniciando consulta para la placa: DRU288
+2024-12-30 08:24:23,947 - ERROR - Elemento no encontrado para la placa DRU288: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@formcontrolname='placa']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:24:23,947 - ERROR - Consulta fallida para la placa: DRU288
+2024-12-30 08:24:23,947 - INFO - Iniciando consulta para la placa: IUY421
+2024-12-30 08:24:29,074 - ERROR - Elemento no encontrado para la placa IUY421: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@formcontrolname='placa']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:24:29,075 - ERROR - Consulta fallida para la placa: IUY421
+2024-12-30 08:24:29,075 - INFO - Iniciando consulta para la placa: DRU426
+2024-12-30 08:24:34,172 - ERROR - Elemento no encontrado para la placa DRU426: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@formcontrolname='placa']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:24:34,173 - ERROR - Consulta fallida para la placa: DRU426
+2024-12-30 08:24:34,173 - INFO - Iniciando consulta para la placa: USK541
+2024-12-30 08:24:39,274 - ERROR - Elemento no encontrado para la placa USK541: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@formcontrolname='placa']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:24:39,274 - ERROR - Consulta fallida para la placa: USK541
+2024-12-30 08:24:39,274 - INFO - Iniciando consulta para la placa: FXR916
+2024-12-30 08:24:44,346 - ERROR - Elemento no encontrado para la placa FXR916: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@formcontrolname='placa']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:24:44,346 - ERROR - Consulta fallida para la placa: FXR916
+2024-12-30 08:24:44,347 - INFO - Iniciando consulta para la placa: IGO169
+2024-12-30 08:24:49,431 - ERROR - Elemento no encontrado para la placa IGO169: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@formcontrolname='placa']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:24:49,431 - ERROR - Consulta fallida para la placa: IGO169
+2024-12-30 08:24:49,431 - INFO - Iniciando consulta para la placa: IRM913
+2024-12-30 08:24:54,517 - ERROR - Elemento no encontrado para la placa IRM913: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@formcontrolname='placa']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:24:54,518 - ERROR - Consulta fallida para la placa: IRM913
+2024-12-30 08:38:20,487 - INFO - Modelo RUNT cargado correctamente.
+2024-12-30 08:38:21,875 - INFO - Iniciando consulta para la placa: IRQ891
+2024-12-30 08:40:29,961 - INFO - Modelo RUNT cargado correctamente.
+2024-12-30 08:40:31,276 - INFO - Iniciando consulta para la placa: IRQ891
+2024-12-30 08:40:37,960 - ERROR - Elemento no encontrado para la placa IRQ891: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@formcontrolname='tipoDocumento']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:40:37,960 - ERROR - Consulta fallida para la placa: IRQ891
+2024-12-30 08:40:37,960 - INFO - Iniciando consulta para la placa: DRU288
+2024-12-30 08:40:43,083 - ERROR - Elemento no encontrado para la placa DRU288: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@formcontrolname='tipoDocumento']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:40:43,083 - ERROR - Consulta fallida para la placa: DRU288
+2024-12-30 08:40:43,083 - INFO - Iniciando consulta para la placa: IUY421
+2024-12-30 08:40:48,190 - ERROR - Elemento no encontrado para la placa IUY421: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@formcontrolname='tipoDocumento']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:40:48,190 - ERROR - Consulta fallida para la placa: IUY421
+2024-12-30 08:40:48,191 - INFO - Iniciando consulta para la placa: DRU426
+2024-12-30 08:40:53,303 - ERROR - Elemento no encontrado para la placa DRU426: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@formcontrolname='tipoDocumento']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:40:53,303 - ERROR - Consulta fallida para la placa: DRU426
+2024-12-30 08:40:53,303 - INFO - Iniciando consulta para la placa: USK541
+2024-12-30 08:40:58,402 - ERROR - Elemento no encontrado para la placa USK541: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@formcontrolname='tipoDocumento']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:40:58,403 - ERROR - Consulta fallida para la placa: USK541
+2024-12-30 08:40:58,403 - INFO - Iniciando consulta para la placa: FXR916
+2024-12-30 08:41:03,511 - ERROR - Elemento no encontrado para la placa FXR916: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@formcontrolname='tipoDocumento']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:41:03,511 - ERROR - Consulta fallida para la placa: FXR916
+2024-12-30 08:41:03,511 - INFO - Iniciando consulta para la placa: IGO169
+2024-12-30 08:41:08,615 - ERROR - Elemento no encontrado para la placa IGO169: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@formcontrolname='tipoDocumento']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:41:08,615 - ERROR - Consulta fallida para la placa: IGO169
+2024-12-30 08:41:08,616 - INFO - Iniciando consulta para la placa: IRM913
+2024-12-30 08:41:13,718 - ERROR - Elemento no encontrado para la placa IRM913: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@formcontrolname='tipoDocumento']"}
+  (Session info: chrome=131.0.6778.205); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DEA8FB05+28789]
+	(No symbol) [0x00007FF6DE9F86E0]
+	(No symbol) [0x00007FF6DE89592A]
+	(No symbol) [0x00007FF6DE8E930E]
+	(No symbol) [0x00007FF6DE8E95FC]
+	(No symbol) [0x00007FF6DE9328A7]
+	(No symbol) [0x00007FF6DE90F47F]
+	(No symbol) [0x00007FF6DE92F654]
+	(No symbol) [0x00007FF6DE90F1E3]
+	(No symbol) [0x00007FF6DE8DA938]
+	(No symbol) [0x00007FF6DE8DBAA1]
+	GetHandleVerifier [0x00007FF6DEDC933D+3410093]
+	GetHandleVerifier [0x00007FF6DEDDE7DD+3497293]
+	GetHandleVerifier [0x00007FF6DEDD2A73+3448803]
+	GetHandleVerifier [0x00007FF6DEB57BBB+848171]
+	(No symbol) [0x00007FF6DEA03C3F]
+	(No symbol) [0x00007FF6DE9FF6E4]
+	(No symbol) [0x00007FF6DE9FF87D]
+	(No symbol) [0x00007FF6DE9EED49]
+	BaseThreadInitThunk [0x00007FFE75CB259D+29]
+	RtlUserThreadStart [0x00007FFE77E0AF38+40]
+
+2024-12-30 08:41:13,718 - ERROR - Consulta fallida para la placa: IRM913

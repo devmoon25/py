@@ -1,0 +1,31 @@
+import logging
+
+# Configurar el archivo de log
+logging.basicConfig(
+    filename="consulta_runt.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s"
+)
+
+def log_example():
+    """Ejemplo de cómo registrar información en el archivo de log."""
+    logging.info("Inicio del script de consulta RUNT")
+
+    try:
+        # Simulando una consulta exitosa
+        logging.info("Consulta realizada para la placa XYZ123")
+
+        # Simulando una advertencia
+        logging.warning("Tiempo de respuesta lento para la placa ABC456")
+
+        # Simulando un error
+        raise ValueError("Error al procesar la placa DEF789")
+
+    except Exception as e:
+        logging.error(f"Se produjo un error: {str(e)}")
+
+    finally:
+        logging.info("Finalización del script de consulta RUNT")
+
+if __name__ == "__main__":
+    log_example()
